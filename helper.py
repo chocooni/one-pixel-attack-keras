@@ -3,7 +3,7 @@
 import pickle
 import numpy as np
 from keras.datasets import cifar10
-from keras.utils import np_utils
+from tensorflow.python.keras.utils import np_utils
 from matplotlib import pyplot as plt
 import pandas as pd
 import requests
